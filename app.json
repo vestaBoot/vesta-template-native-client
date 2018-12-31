@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "Vesta Native Client",
+    "version": "0.1.0",
+    "icon": "./assets/icon.png",
+    "slug": "vesta-template-native-client",
+    "sdkVersion": "31.0.0",
+    "androidStatusBar": {
+      "bar-style": "light-content"
+    },
+    "splash": {
+      "backgroundColor": "#ffffff",
+      "resizeMode": "contain",
+      "image": "./assets/splash.png"
+    }
+  }
+}
